@@ -1,4 +1,0 @@
-eShengjing
-==========
-
-bible on web.
