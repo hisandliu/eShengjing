@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /eShengJing
+# RewriteRule ^(.*)\.html$ http://localhost/eShengJing/index.php?p=$1
+RewriteRule ^(.*)\.html$ index.php?p=$1
