@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/hisand/bible/src/Bible/lib/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="E:/hisand/bible/src/Bible/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/hisand/bible/src/Bible/lib/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/KingsaUtils"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
